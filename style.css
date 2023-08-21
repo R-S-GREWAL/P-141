@@ -1,0 +1,63 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+width: 100%;
+text-align: center;
+box-shadow: 3px 3px 2px red;
+font-family: 'Acme', sans-serif;
+}
+.heading h3
+{
+display: inline;
+}
+.heading button
+{
+float: right;
+margin-right: 10px;
+border: 5px solid darkblue;
+font-family: 'Acme', sans-serif;
+}
+#play,#stature
+{
+font-size: 20px;
+color:darkblue;
+font-family: 'Acme', sans-serif;
+}
+h4
+{
+background-color: darkblue;
+color: aqua;
+font-family: 'Acme', sans-serif;
+line-height: 2;
+margin: 0px;
+box-shadow: 4px,4px,3px,red;
+}
+.modal-dialog 
+{
+    width: 90%;
+}
+canvas 
+{
+    border: 2px;
+}
+.copy_right_footer
+{
+    font-family: 'Acme', sans-serif;
+    font-weight: bold;
+    width: 100%;
+    font-size: 25px;
+    box-shadow: 4px 3px 4px blue;
+    background-color: bisque;
+    text-align: center;
+    bottom: 0px;
+    position: fixed;
+}
+video
+{
+background-size: cover;
+background-position: center;
+padding: 30px;
+}
